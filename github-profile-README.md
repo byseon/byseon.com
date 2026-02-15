@@ -2,22 +2,9 @@
 
 I build systems for speech, intelligence, and human communication.
 
-## What I work on
+Pronunciation, ASR, voice agents, applied ML — my work sits between linguistics and machine learning. I think about how people actually speak, how they pick up new languages, where things break. Then I build around that.
 
-- **Pronunciation assessment** — scoring and feedback systems for language learners
-- **ASR** — automatic speech recognition pipelines and optimization
-- **Voice agents** — conversational AI that speaks and listens
-- **Applied ML** — research that becomes real, deployed tools
-
-## Approach
-
-I care about systems that work in production, not just in notebooks.
-Most of my work sits at the intersection of speech processing, ML infrastructure, and product.
-
-## Beyond code
-
-I write, record, mix, master, and release music.
-I document life through photography.
+I write, record, and release music. I take photos.
 
 ## Links
 
